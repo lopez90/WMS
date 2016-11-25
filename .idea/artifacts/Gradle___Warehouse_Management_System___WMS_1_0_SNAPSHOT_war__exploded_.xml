@@ -11,6 +11,10 @@
           <element id="module-output" name="WMS_main" />
           <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.webjars:jquery:1.11.1" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars/bootstrap/4.0.0-alpha.2/da65a1151291bc5c5907fd2e5ad0b3bc1cead25a/bootstrap-4.0.0-alpha.2.jar" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/WMS/exploded/WMS-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
